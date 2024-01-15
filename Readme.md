@@ -27,7 +27,9 @@ colocando tus credenciales de tu servidor, nommbre de la bd, tu usuario y contra
 5.Ejecuta las pruebas unitarias con este comando:
 ./vendor/bin/phpunit tests
 
-6.Usando las rutas:
+6.Asegurate que tu httpd de apache este configurado para soportar las rutas amigables
+
+7.Usando las rutas:
 (modifica el puerto segun el puerto que tu estes usando en mi caso es :8080)
 
 GET http://localhost:8080/api/tasks [obtendras todas las tareas]
