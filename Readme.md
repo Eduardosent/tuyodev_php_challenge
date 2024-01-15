@@ -42,3 +42,6 @@ DELETE  http://localhost:8080/api/tasks/1 [eliminaras una tarea con el id 1] (si
 
 Gracias por tu tiempo asi tendras un api local de Tareas
 
+mi portafolio: mon-portfolio-new.netlify.app
+mi numero: +503 74489102
+
